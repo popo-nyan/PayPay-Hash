@@ -10,5 +10,4 @@ python main.py
 ```
 
 # Contact
-- Discord: qoo.nyan
 - Matrix: @qoo.nyan:usesarchbtw.lol
