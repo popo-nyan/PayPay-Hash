@@ -10,4 +10,5 @@ python main.py
 ```
 
 # Contact
+- Discord: popo.nyan
 - Email [kounomiya@tuta.io](mailto:kounomiya@tuta.io)
